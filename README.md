@@ -1,8 +1,6 @@
-# <a href="https://github.com/rhildred/split-test" target="_blank">split-test</a>
 
+# INFO 3130 Midterm  
 An engine for splitting the traffic between sites.  
-
-INFO 3130 Midterm  
 Submission by: Michael Pantaleon  
 
 ### Google Analytics Results - Saving Info into Database
