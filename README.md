@@ -2,7 +2,6 @@
 
 An engine for splitting the traffic between sites.
 
-## INFO 3130 Midterm
-
+INFO 3130 Midterm
 Submission by: Michael Pantaleon
 
