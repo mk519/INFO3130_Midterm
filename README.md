@@ -1,7 +1,7 @@
 
 # INFO 3130 Midterm  
 An engine for splitting the traffic between sites.  
-[Heroku](#https://info3130-mp-2020-f.herokuapp.com/)
+<a href="https://info3130-mp-2020-f.herokuapp.com/" target="_blank">Heroku Survey Link</a>
 
 ### Google Analytics Results 
 
